@@ -1,5 +1,5 @@
-# Springboard-Capston-project 1
-# Incorporating molecular data-driven decisions towards soybean improvement
+                                                  # Springboard-Capston-project 1
+                              # Incorporating molecular data-driven decisions towards soybean improvement
 ## 1.	The problem I want to solve
 Many agriculturally important traits such as yield, quality and some forms of disease resistance are controlled by many genes and are known as quantitative traits. It’s labor intensive and time consuming to evaluate those traits. The strategy of genomic selection (GS) estimates the genetic merit of an individual based on molecular genetic information by simultaneously accounting for all DNA markers. GS is a form of marker-assisted selection that selects progeny lines or parents based on the estimated genomic estimated breeding values (GEBVs), which leads to shorter breeding cycle duration as it is no longer necessary to wait for late filial generations’ performance trial. The problem I want solve herein is to build a genomic selection model for prediction of soybean complex traits (yield, protein and oil content).
 ## 2.	Potential client and why do they care about this problem
