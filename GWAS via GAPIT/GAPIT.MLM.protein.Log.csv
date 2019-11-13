@@ -1,0 +1,12 @@
+Model,Value
+Trait,c("9590", "2")
+group.by ,10
+Trait name ,MLM.protein
+Kinship,9765:9766
+Z Matrix,c(9591, 9591)
+Covariate,c(9590, 4)
+SNP.P3D,TRUE
+Clustering algorithms,average
+Group kinship,Mean
+group.from ,9765
+group.to ,9765
